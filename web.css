@@ -1,0 +1,32 @@
+#h1{
+font-size: 60px;
+font-weight: bold;
+color: white;
+}
+#p1{
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color: red;
+}
+div{
+    background-color: white;
+}
+h1, h2{
+    color: red;
+
+}
+nav{
+    float: right;
+    border: 1px solid red;
+    border-radius: 2px;
+  
+}
+section{
+    background-color: pink;
+    color: red;
+}
+#p2{
+    color: white;
+}
